@@ -1,4 +1,4 @@
-<img align="center" src="/assets/logo_md.png" alt="unimpressed turtle">
+![Unimpressed Turtle](/assets/banner_readme.png)
 
 ### Running site locally
 
