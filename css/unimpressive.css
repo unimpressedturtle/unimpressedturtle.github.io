@@ -4,9 +4,8 @@ body {
 
 #main-container {
   width: 760px;
-  height: 310px;
+  height: 320px;
   background: url("/assets/logo.png") no-repeat center;
-  border: 1px solid #000000;
   margin-top: 120px;
 }
 
@@ -24,7 +23,7 @@ body {
 }
 
 #social-container {
-  margin-top: 250px;
+  padding-top: 255px;
 }
 
 .social {
