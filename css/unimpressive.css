@@ -1,3 +1,15 @@
 body {
   background-color: #191B1E;
 }
+
+#logo {
+  background: url("/assets/logo.png") no-repeat center;
+  height: 64px;
+  width: 351px;
+}
+
+#unitu {
+  background: url("/assets/unitu.png") no-repeat center;
+  height: 40px;
+  width: 38px;
+}
