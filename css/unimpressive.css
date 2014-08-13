@@ -63,3 +63,12 @@ body {
 .social-twitter:hover {
   background-color: #3fa1cb;
 }
+
+.social-dribbble {
+  background: url("/assets/social/dribbble.png") no-repeat center;
+  background-color: #25292C;
+}
+
+.social-dribbble:hover {
+  background-color: #c32361;
+}
