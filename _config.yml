@@ -2,6 +2,3 @@ exclude: ["README.md", "Gemfile", "Gemfile.lock", "start.sh"]
 
 gems:
   - jekyll-sitemap
-  
-baseurl:
-  - /unimpressedturtle.com
