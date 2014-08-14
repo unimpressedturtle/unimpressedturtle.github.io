@@ -15,4 +15,4 @@
 
 ###### LIVE
 
-**http://josegallegos07.github.io/unimpressedturtle.com/**
+**http://unimpressedturtle.com/**
