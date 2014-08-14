@@ -5,19 +5,19 @@ body {
 #main-container {
   width: 760px;
   height: 320px;
-  background: url("/assets/logo.png") no-repeat center;
+  background: url("../assets/logo.png") no-repeat center;
   margin-top: 120px;
 }
 
 #logo {
-  background: url("/assets/logo.png") no-repeat center;
+  background: url("../assets/logo.png") no-repeat center;
   height: 64px;
   width: 351px;
   margin-top: 115px;
 }
 
 #unitu {
-  background: url("/assets/unitu.png") no-repeat center;
+  background: url("../assets/unitu.png") no-repeat center;
   height: 40px;
   width: 38px;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .social-facebook {
-  background: url("/assets/social/facebook.png") no-repeat center;
+  background: url("../assets/social/facebook.png") no-repeat center;
   background-color: #25292C;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .social-instagram {
-  background: url("/assets/social/instagram.png") no-repeat center;
+  background: url("../assets/social/instagram.png") no-repeat center;
   background-color: #25292C;
 }
 
@@ -55,7 +55,7 @@ body {
 }
 
 .social-twitter {
-  background: url("/assets/social/twitter.png") no-repeat center;
+  background: url("../assets/social/twitter.png") no-repeat center;
   background-color: #25292C;
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .social-dribbble {
-  background: url("/assets/social/dribbble.png") no-repeat center;
+  background: url("../assets/social/dribbble.png") no-repeat center;
   background-color: #25292C;
 }
 
