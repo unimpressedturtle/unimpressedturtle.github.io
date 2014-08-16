@@ -52,6 +52,10 @@ body {
 
 .social-facebook:hover {
   background-color: #35619e;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
 
 .social-instagram {
@@ -61,6 +65,10 @@ body {
 
 .social-instagram:hover {
   background-color: #3f7094;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
 
 .social-twitter {
@@ -70,6 +78,10 @@ body {
 
 .social-twitter:hover {
   background-color: #3fa1cb;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
 
 .social-dribbble {
@@ -79,4 +91,8 @@ body {
 
 .social-dribbble:hover {
   background-color: #c32361;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
