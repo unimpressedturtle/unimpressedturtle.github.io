@@ -3,6 +3,14 @@ body {
   color: #25292C;
 }
 
+::selection {
+  background: #FFFFFF; /* Safari */
+}
+
+::-moz-selection {
+  background: #FFFFFF; /* Firefox */
+}
+
 #main-container {
   width: 760px;
   height: 320px;
