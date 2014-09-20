@@ -1,6 +1,7 @@
 body {
   background-color: #191b1e;
-  color: #25292C;
+  color: #3c4348;
+  font-family: 'Oxygen', sans-serif;
 }
 
 ::selection {
@@ -9,6 +10,12 @@ body {
 
 ::-moz-selection {
   background: #FFFFFF; /* Firefox */
+}
+
+a:link,
+a:visited,
+a:active {
+  color: #CDCDCD;
 }
 
 #social-container {
