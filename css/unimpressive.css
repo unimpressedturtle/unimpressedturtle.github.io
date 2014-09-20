@@ -26,6 +26,10 @@ a:active {
   min-height: 80px;
 }
 
+#about-container {
+  min-height: 80px;
+}
+
 .list-inline>li {
   padding-left: 2px;
   padding-right: 2px;
