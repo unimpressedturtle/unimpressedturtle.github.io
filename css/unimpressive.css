@@ -15,64 +15,12 @@ body {
   min-height: 80px;
 }
 
-.social {
-  height: 32px;
-  width: 32px;
-}
-
 .list-inline>li {
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-.social-facebook {
-  background: url("../assets/social/facebook.png") no-repeat center;
-  background-color: #25292C;
-}
-
-.social-facebook:hover {
-  background-color: #35619e;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
-}
-
-.social-instagram {
-  background: url("../assets/social/instagram.png") no-repeat center;
-  background-color: #25292C;
-}
-
-.social-instagram:hover {
-  background-color: #3f7094;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
-}
-
-.social-twitter {
-  background: url("../assets/social/twitter.png") no-repeat center;
-  background-color: #25292C;
-}
-
-.social-twitter:hover {
-  background-color: #3fa1cb;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
-}
-
-.social-dribbble {
-  background: url("../assets/social/dribbble.png") no-repeat center;
-  background-color: #25292C;
-}
-
-.social-dribbble:hover {
-  background-color: #c32361;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
+.soc {
+  font-size: 24px;
+  color: #CDCDCD;
 }

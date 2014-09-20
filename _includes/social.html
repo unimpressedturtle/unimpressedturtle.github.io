@@ -2,9 +2,9 @@
   <ul class="list-inline text-center">
     {% for profile in site.data.social.profiles %}
     <li>
-      <a href="{{ profile.url }}" target="_blank">
-        <div id="{{ profile.profile }}" class="social social-{{ profile.profile }}"></div>
-      </a>
+    	<a href="{{ profile.url }}" target="_blank">
+    		<div id="{{ profile.profile }}" class="soc soc-{{ profile.profile }} fa fa-{{ profile.profile }}"></div>
+    	</a>
     </li>
     {% endfor %}
   </ul>
