@@ -1,13 +1,11 @@
-<div id="main-container" class="center-block">
-  <div id="social-container">
-    <ul class="list-inline text-center">
-      {% for profile in site.data.social.profiles %}
-      <li>
-        <a href="{{ profile.url }}" target="_blank">
-          <div id="{{ profile.profile }}" class="social social-{{ profile.profile }}"></div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
+<div id="social-container" class="vpadding-15">
+  <ul class="list-inline text-center">
+    {% for profile in site.data.social.profiles %}
+    <li>
+      <a href="{{ profile.url }}" target="_blank">
+        <div id="{{ profile.profile }}" class="social social-{{ profile.profile }}"></div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
 </div>

@@ -11,28 +11,8 @@ body {
   background: #FFFFFF; /* Firefox */
 }
 
-#main-container {
-  width: 760px;
-  height: 320px;
-  background: url("../assets/logo.png") no-repeat center;
-  margin-top: 90px;
-}
-
-#logo {
-  background: url("../assets/logo.png") no-repeat center;
-  height: 64px;
-  width: 351px;
-  margin-top: 115px;
-}
-
-#unitu {
-  background: url("../assets/unitu.png") no-repeat center;
-  height: 40px;
-  width: 38px;
-}
-
 #social-container {
-  padding-top: 240px;
+  min-height: 80px;
 }
 
 .social {
