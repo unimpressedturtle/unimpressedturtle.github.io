@@ -3,7 +3,10 @@
     {% for profile in site.data.social.profiles %}
     <li>
     	<a href="{{ profile.url }}" target="_blank">
-    		<div id="{{ profile.profile }}" class="soc soc-{{ profile.profile }} fa fa-{{ profile.profile }}"></div>
+    	  <span class="soc soc-{{ profile.profile }} fa-stack fa-lg">
+    	  	<i class="fa fa-stop fa-stack-2x"></i>
+    	  	<i class="fa fa-{{ profile.profile }} fa-stack-1x"></i>
+    	  </span>
     	</a>
     </li>
     {% endfor %}
