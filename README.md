@@ -1,23 +1,12 @@
 ![Unimpressed Turtle](/assets/banner_readme.png)
 
-Unimpressed Turtle website.  
+### About
 
-## Running site locally
+Website for Unimpressed Turtle - [award winning](https://github.com/blog/1731-github-game-off-ii-winners) independent game developer. 
 
-### PREREQS
-1. [Ruby](https://www.ruby-lang.org/en/downloads/) 1.9.3
-2. Bundler <code>gem install bundler</code>
+### Live
 
-### START SERVER
-##### 
-	rvm use 1.9.3
-	sh start.sh
+[http://www.unimpressedturtle.com](http://www.unimpressedturtle.com)
 
-[http://localhost:4000 ](http://localhost:4000 )
-
-## LIVE
-
-[http://unimpressedturtle.com](http://unimpressedturtle.com)
-
-## LICENSE
+### License
 See [LICENSE](/LICENSE)
