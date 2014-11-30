@@ -1,4 +1,4 @@
-![Unimpressed Turtle](/assets/banner_readme.png)
+![Unimpressed Turtle](/assets/misc/banner_readme.png)
 
 ### About
 
