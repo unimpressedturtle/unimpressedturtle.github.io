@@ -2,7 +2,7 @@
 
 ### About
 
-Website for Unimpressed Turtle - [award winning](https://github.com/blog/1731-github-game-off-ii-winners) independent game developer. 
+Website for Unimpressed Turtle - independent game developer based in San Francisco, CA.
 
 ### Live
 
