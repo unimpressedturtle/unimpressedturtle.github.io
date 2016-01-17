@@ -2,7 +2,7 @@
 
 ### About
 
-Website for Unimpressed Turtle, independent game developer based in San Francisco, CA.
+Website for Unimpressed Turtle - independent game developer based in San Francisco, CA.
 
 ### Live
 
